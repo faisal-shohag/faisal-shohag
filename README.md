@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQFKHqulYqA2Mg/profile-displaybackgroundimage-shrink_350_1400/0/1716111675281?e=1725494400&v=beta&t=97010WNYFTAP756rC-y8NEAhZH7szi4y4M_G3AwTsW8" alt="ContestHub Logo" width="200"/>
+<img src="https://media.licdn.com/dms/image/D5616AQFKHqulYqA2Mg/profile-displaybackgroundimage-shrink_350_1400/0/1716111675281?e=1725494400&v=beta&t=97010WNYFTAP756rC-y8NEAhZH7szi4y4M_G3AwTsW8" alt="banner" />
 
 # 💫 About Me:
 Aspiring Software Developer with a passion for mastering technologies such as Flutter, React JS, Node.js, SvelteKit, PostgreSQL, and socket.io. With hands-on project experience in these areas, alongside a growing understanding of machine learning concepts, I'm dedicated to becoming a proficient software engineer.
