@@ -7,6 +7,7 @@ Proficient in C++, JavaScript, Python, and Dart, I'm committed to continuous lea
 
 Outside of tech, I find joy in reading books and immersing myself in audio book stories, constantly seeking inspiration and knowledge. Eager to contribute to impactful projects and collaborate with like-minded individuals, I'm driven by the desire to excel in the software development industry and make meaningful contributions to the field.
 •
+
 Github: https://github.com/faisal-shohag 
 Email: faisalshohagprog@gmail.com
 
