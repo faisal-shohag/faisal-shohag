@@ -1,5 +1,3 @@
-<img src="https://i.postimg.cc/pTYrgwTg/image.png" alt="banner" />
-
 # 💫 About Me:
 Aspiring Software Developer with a passion for mastering technologies such as Flutter, React JS, Node.js, SvelteKit, PostgreSQL, and socket.io. With hands-on project experience in these areas, alongside a growing understanding of machine learning concepts, I'm dedicated to becoming a proficient software engineer.
 
