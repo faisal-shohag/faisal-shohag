@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Developer with a passion for mastering technologies such as Flutter, React JS, Node.js, SvelteKit, PostgreSQL, and socket.io. With hands-on project experience in these areas, alongside a growing understanding of machine learning concepts, I'm dedicated to becoming a proficient software engineer.
+Aspiring Software Developer with a passion for mastering technologies such as Flutter, React JS, Node.js, NextJs, PostgreSQL, and socket.io. With hands-on project experience in these areas, alongside a growing understanding of machine learning concepts, I'm dedicated to becoming a proficient software engineer.
 
 Proficient in C++, JavaScript, Python, and Dart, I'm committed to continuous learning and growth. Alongside my coding journey, I'm delving into the world of machine learning, expanding my knowledge and exploring its potential applications.
 
