@@ -1,6 +1,4 @@
 # 💫 About Me:
-### Updated About Section
-
 Aspiring Full Stack Developer with expertise in technologies such as React.js, Node.js, Next.js, PostgreSQL, Prisma ORM, Flutter, and Socket.io. I have hands-on experience in building real-world projects, including a school management system, a real-time location tracker, and an innovative book exchange platform leveraging AI for dynamic content creation.
 
 Proficient in C++, JavaScript, Python, and Dart, I also possess intermediate skills in Java. My knowledge extends to frameworks like Flask and tools such as Git, Postman, and Jupyter Notebook. I am enthusiastic about problem-solving, having tackled over 700 algorithmic challenges on platforms like LeetCode, CodeChef, and Codeforces.
