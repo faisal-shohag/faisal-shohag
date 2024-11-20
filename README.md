@@ -1,12 +1,16 @@
 # 💫 About Me:
-Aspiring Software Developer with a passion for mastering technologies such as Flutter, React JS, Node.js, NextJs, PostgreSQL, and socket.io. With hands-on project experience in these areas, alongside a growing understanding of machine learning concepts, I'm dedicated to becoming a proficient software engineer.
+### Updated About Section
 
-Proficient in C++, JavaScript, Python, and Dart, I'm committed to continuous learning and growth. Alongside my coding journey, I'm delving into the world of machine learning, expanding my knowledge and exploring its potential applications.
+Aspiring Full Stack Developer with expertise in technologies such as React.js, Node.js, Next.js, PostgreSQL, Prisma ORM, Flutter, and Socket.io. I have hands-on experience in building real-world projects, including a school management system, a real-time location tracker, and an innovative book exchange platform leveraging AI for dynamic content creation.
 
-Outside of tech, I find joy in reading books and immersing myself in audio book stories, constantly seeking inspiration and knowledge. Eager to contribute to impactful projects and collaborate with like-minded individuals, I'm driven by the desire to excel in the software development industry and make meaningful contributions to the field.
-•
+Proficient in C++, JavaScript, Python, and Dart, I also possess intermediate skills in Java. My knowledge extends to frameworks like Flask and tools such as Git, Postman, and Jupyter Notebook. I am enthusiastic about problem-solving, having tackled over 700 algorithmic challenges on platforms like LeetCode, CodeChef, and Codeforces.
 
-Email: faisalshohagprog@gmail.com
+Driven to contribute to impactful projects, I excel at working collaboratively and exploring innovative solutions. Let’s connect and create something meaningful together!
+
+**Email:** faisalshohagprog@gmail.com  
+**Portfolio:** [hellofaisal.netlify.app](https://hellofaisal.netlify.app/)  
+**GitHub:** [faisal-shohag](https://github.com/faisal-shohag)  
+**LinkedIn:** [Faisal Shohag](https://www.linkedin.com/in/faisal-shohag/)
 
 
 ## 🌐 Socials:
