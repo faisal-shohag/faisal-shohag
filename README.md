@@ -7,13 +7,7 @@ Driven to contribute to impactful projects, I excel at working collaboratively a
 
 **Email:** faisalshohagprog@gmail.com  
 **Portfolio:** [hellofaisal.netlify.app](https://hellofaisal.netlify.app/)  
-**GitHub:** [faisal-shohag](https://github.com/faisal-shohag)  
 **LinkedIn:** [faisal-shohag](https://www.linkedin.com/in/faisal-shohag/)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faisal-shohag) 
-[![CodePen](https://img.shields.io/badge/Codepen-%230077B5.svg?logo=CodePen&logoColor=white)](https://codepen.io/faisalbrur) 
 
 # 💻 Tech Stack:
 ## Front-end
