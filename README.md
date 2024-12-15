@@ -8,7 +8,7 @@ Driven to contribute to impactful projects, I excel at working collaboratively a
 **Email:** faisalshohagprog@gmail.com  
 **Portfolio:** [hellofaisal.netlify.app](https://hellofaisal.netlify.app/)  
 **LinkedIn:** [faisal-shohag](https://www.linkedin.com/in/faisal-shohag/)
-
+   
 # 💻 Tech Stack:
 ## Front-end
  ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
