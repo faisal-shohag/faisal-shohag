@@ -32,8 +32,8 @@ Driven to contribute to impactful projects, I excel at working collaboratively a
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
    
 # 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=faisal-shohag)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=faisal-shohag&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=faisal-shohag)]
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-shohag&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=faisal-shohag&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
