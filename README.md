@@ -3,7 +3,7 @@ Aspiring Full Stack Developer with expertise in technologies such as React.js, N
 
 Proficient in C++, JavaScript, Python, and Dart, I also possess intermediate skills in Java. My knowledge extends to frameworks like Flask and tools such as Git, Postman, and Jupyter Notebook. I am enthusiastic about problem-solving, having tackled over 700 algorithmic challenges on platforms like LeetCode, CodeChef, and Codeforces.
 
-Driven to contribute to impactful projects, I excel at working collaboratively and exploring innovative solutions. Let’s connect and create something meaningful together!
+Driven to contribute to impactful projects, I excel at working collaboratively and exploring innovative solutions. Let’s connect and create something meaningful together!...
 
 **Email:** faisalshohagprog@gmail.com     
 **Portfolio:** [hellofaisal.netlify.app](https://hellofaisal.netlify.app/)  
