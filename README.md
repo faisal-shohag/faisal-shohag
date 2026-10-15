@@ -1,47 +1,45 @@
-# 💫 About Me:
-Aspiring Full Stack Developer with expertise in technologies such as React.js, Node.js, Next.js, PostgreSQL, Prisma ORM, Flutter, and Socket.io. I have hands-on experience in building real-world projects, including a school management system, a real-time location tracker, and an innovative book exchange platform leveraging AI for dynamic content creation.
+<h1>Abu Nayim Faisal</h1>
 
-Proficient in C++, JavaScript, Python, and Dart, I also possess intermediate skills in Java. My knowledge extends to frameworks like Flask and tools such as Git, Postman, and Jupyter Notebook. I am enthusiastic about problem-solving, having tackled over 700 algorithmic challenges on platforms like LeetCode, CodeChef, and Codeforces.
+<p>
+  Full-stack Software &amp; Product Developer · Mentor at <a href="https://www.programming-hero.com">Programming Hero</a> · Bangladesh
+</p>
 
-Driven to contribute to impactful projects, I excel at working collaboratively and exploring innovative solutions. Let’s connect and create something meaningful together!...
+<p>
+  <a href="https://anfaisal.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-anfaisal.vercel.app-0b0b0c?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/faisal-shohag/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-faisal--shohag-0b0b0c?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:faisalshohagprog@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-faisalshohagprog%40gmail.com-0b0b0c?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
-**Email:** faisalshohagprog@gmail.com     
-**Portfolio:** [https://anfaisal.vercel.app/](https://anfaisal.vercel.app/)  
-**LinkedIn:** [faisal-shohag](https://www.linkedin.com/in/faisal-shohag/)
-   
-# 💻 Tech Stack:
-## Front-end
- ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+I build web apps, APIs and native desktop tools with TypeScript, React, Node.js, Rust and C#. At Programming Hero I mentor developers through real-world full-stack builds. I've solved 700+ algorithmic problems on LeetCode, CodeChef and Codeforces.
 
-## Back-end
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+Open to full-stack and product engineering roles.
 
-## Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Typescript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+## Featured work
 
-## Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Beaver Video Editor**](https://github.com/faisal-shohag/beaver-video-editor) | Fast multi-track video editor for Windows. Cut, split, join and speed changes; exports through a bundled FFmpeg using the fastest encoder on your PC. [Download](https://github.com/faisal-shohag/beaver-video-editor/releases/latest) | Tauri 2, Rust, React 19, FFmpeg |
+| [**OrixNotch**](https://github.com/faisal-shohag/orixNotch) | Dynamic-island toolbox for Windows: now playing, file shelf, phone transfer via QR, clipboard history and an Ask AI panel. | C#, .NET |
+| [**Phi Lab**](https://github.com/faisal-shohag/phi-lab) | AI learning layer for Programming Hero. Live voice mock interviews, Feynman and English labs, code and quiz labs, XP and badges. [Live](https://phi-lab-steel.vercel.app) | Next.js 16, Prisma, PostgreSQL, Gemini Live |
+| [**Chat with Repo**](https://github.com/faisal-shohag/chat-with-repo) | Sign in with GitHub and chat with any repository. The AI explores code on demand through GitHub API tools. [Live](https://chat-with-repo-coral.vercel.app) | Next.js 16, Vercel AI SDK, MongoDB |
+| [**LeetCode API**](https://github.com/faisal-shohag/leetcode_api) | REST API over LeetCode's GraphQL: profile stats, solved counts and submission calendar. [Live](https://leetcode-api-faisalshohag.vercel.app/) | Node.js, Express, GraphQL |
+| [**Autiscope**](https://github.com/faisal-shohag/Autism-Spectrum-Disorder_Flutter_ML) | Flutter app for early autism screening with a toddler questionnaire and image-based prediction from a Keras model. | Flutter, Firebase, Keras, Flask |
 
-## Cloud Platforms
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+Open source on npm: [`fabric-guideline`](https://github.com/faisal-shohag/fabric_guideline) (smart alignment guides for Fabric.js v6) and [`re-title`](https://www.npmjs.com/package/re-title) (React document-title management).
 
-## Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## Tech stack
 
-## Others
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-   
-# 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=faisal-shohag)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=faisal-shohag&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-shohag&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=faisal-shohag&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,flutter,dart,svelte&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Flutter, Dart, Svelte">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=faisal-shohag&limit=5&theme=radical&combine_all_yearly_contributions=true)
+**Backend &amp; data**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,supabase,firebase&theme=dark" alt="Node.js, Express, Prisma, PostgreSQL, MongoDB, Supabase, Firebase">
+
+**Desktop, languages &amp; infra**<br>
+<img src="https://skillicons.dev/icons?i=rust,tauri,cs,dotnet,python,cpp,vercel,cloudflare,git,linux&theme=dark" alt="Rust, Tauri, C#, .NET, Python, C++, Vercel, Cloudflare, Git, Linux">
+
+**AI**: Vercel AI SDK, Gemini API and Gemini Live, tool calling, multi-provider fallback (Gemini, Groq, Ollama). Daily workflow with Claude Code, Codex, OpenCode and Antigravity.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=faisal-shohag&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<sub>More at <a href="https://anfaisal.vercel.app">anfaisal.vercel.app</a></sub>
