@@ -19,7 +19,7 @@ Open to full-stack and product engineering roles.
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Beaver Video Editor**](https://github.com/faisal-shohag/beaver-video-editor) | Fast multi-track video editor for Windows. Cut, split, join and speed changes; exports through a bundled FFmpeg using the fastest encoder on your PC. [Download](https://github.com/faisal-shohag/beaver-video-editor/releases/latest) | Tauri 2, Rust, React 19, FFmpeg |
-| [**OrixNotch**](https://github.com/faisal-shohag/orixNotch) | Dynamic-island toolbox for Windows: now playing, file shelf, phone transfer via QR, clipboard history and an Ask AI panel. | C#, .NET |
+| [**OrixNotch**](https://github.com/faisal-shohag/orixNotch) | Dynamic-island toolbox for Windows: now playing, file shelf, phone transfer via QR, clipboard history and an Ask AI panel. [Microsoft Store](https://apps.microsoft.com/detail/9pm8rn7cgswc) | C#, .NET |
 | [**Phi Lab**](https://github.com/faisal-shohag/phi-lab) | AI learning layer for Programming Hero. Live voice mock interviews, Feynman and English labs, code and quiz labs, XP and badges. [Live](https://phi-lab-steel.vercel.app) | Next.js 16, Prisma, PostgreSQL, Gemini Live |
 | [**Chat with Repo**](https://github.com/faisal-shohag/chat-with-repo) | Sign in with GitHub and chat with any repository. The AI explores code on demand through GitHub API tools. [Live](https://chat-with-repo-coral.vercel.app) | Next.js 16, Vercel AI SDK, MongoDB |
 | [**LeetCode API**](https://github.com/faisal-shohag/leetcode_api) | REST API over LeetCode's GraphQL: profile stats, solved counts and submission calendar. [Live](https://leetcode-api-faisalshohag.vercel.app/) | Node.js, Express, GraphQL |
