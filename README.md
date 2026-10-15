@@ -6,7 +6,7 @@ Proficient in C++, JavaScript, Python, and Dart, I also possess intermediate ski
 Driven to contribute to impactful projects, I excel at working collaboratively and exploring innovative solutions. Let’s connect and create something meaningful together!...
 
 **Email:** faisalshohagprog@gmail.com     
-**Portfolio:** [https://anfaisal.vercel.app/](https://anfaisal.vercel.app/)
+**Portfolio:** [https://anfaisal.vercel.app/](https://anfaisal.vercel.app/)  
 **LinkedIn:** [faisal-shohag](https://www.linkedin.com/in/faisal-shohag/)
    
 # 💻 Tech Stack:
